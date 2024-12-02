@@ -1,0 +1,16 @@
+{
+  "name": "qastoredesafio",
+  "version": "1.0.0",
+  "description": "QA Store Desafio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Isadora R Guimarães",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  },
+  "dependencies": {}
+}
